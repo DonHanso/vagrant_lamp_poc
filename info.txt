@@ -1,0 +1,6 @@
+Tried to follow this Vagrant tutorial video: https://www.youtube.com/watch?v=vBreXjkizgo&t=1857s
+
+I faced issues running the "bootstrap.sh" example. It seems that the PHP 7 packages are no longer available for Ubuntu Server 14.04LTS.
+
+So I figured out to make the same working with PHP 7.3 using Vagrant box: https://app.vagrantup.com/sub0/boxes/ubuntu1804
+
